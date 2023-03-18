@@ -4,4 +4,4 @@ This is the boilerplate code for the URL Shortener Microservice project. Instruc
 
 ## I completed this project using the Replit IDE
  
-['demo'](https://boilerplate-project-urlshortener.adamcodes2843.repl.co)
+[demo](https://boilerplate-project-urlshortener.adamcodes2843.repl.co)
